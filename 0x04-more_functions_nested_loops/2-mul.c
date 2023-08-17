@@ -2,10 +2,9 @@
 
 /**
  * mul - multiply 2 int
- * @a - first int
- * @b - second int
- * 
- * Return: multiplacation
+ * @a: first int
+ * @b: second int
+ * Return: addition of multiplacation
  */
 
 int mul(int a, int b)
